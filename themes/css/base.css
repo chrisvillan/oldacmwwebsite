@@ -33,6 +33,7 @@ a, a:link, a:active, a:hover, img{outline:none;}
 /* Sections------------------------- */
 /*#headerSection{ background:url(../images/headerbg.png) repeat-x 0 0 ;}*/
 /*#headerSection{ background: linear-gradient(to bottom, #67cbf0 0%, #dbebfb 100%);}*/
+/*#headerSection{ background:  linear-gradient(225deg, #06719e 0%, #abd3ee 30%, #dbebfb 100%);}*/
 #headerSection{ background:  linear-gradient(225deg, #06719e 0%, #abd3ee 30%, #dbebfb 100%);}
 #headerSection .navbar { padding-top:20px; margin-bottom: 0;}
 #headerSection .navbar .brand {padding: 5px 20px 5px; color: #000;text-shadow: 0 0px 0 white;font-weight: bold; line-height: 1.3em;}
@@ -77,7 +78,8 @@ dropdown-menu li > a:hover{background:linear-gradient(#9c4810 0%, #d66f1a 25%,#e
 #clientsSection{padding:44px 0;}
 #clientsSection a{margin:0 8px;}
 #clientsSection a:hover{text-decoration:none}
-#clientsSection{background: linear-gradient(45deg, #06719e 0%, #abd3ee 50%, #dbebfb 100%);}
+/*#clientsSection{background: linear-gradient(45deg, #06719e 0%, #abd3ee 50%, #dbebfb 100%);}*/
+#clientsSection{background: linear-gradient(45deg, #dbebfb 0%, #abd3ee 50%, #dbebfb 100%);}
 #footerSection{background: url(../images/footerbg.png) repeat 0 0; color:#fff; padding:28px 0 0; border-top: 1px solid #FE5214;}
 #footerSection .well{background:none; color:#fff; border:0}
 #footerSection .media, #bodySection .media{text-align:left;}
