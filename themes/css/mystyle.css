@@ -1,3 +1,8 @@
 .popOver{
-  background-color: red;
+  background-color: #192e4c;
+  background: linear-gradient(to bottom right, #4789d3, #8dc1fc);
+
+
+  border-style: solid;
+  border-color: #2a5c96;
 }
