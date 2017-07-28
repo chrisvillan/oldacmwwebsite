@@ -6,4 +6,12 @@
 background: linear-gradient(to bottom right, #06719e, #45afd6);
   border-style: solid;
   border-color: #06719e;
+
+}
+
+.well{
+  -webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.8);-moz-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.8);box-shadow: 0 5px 10px rgba(0, 0, 0, 0.8); height:auto;
+}
+.thumbnail{
+  -webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.8);-moz-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.8);box-shadow: 0 5px 10px rgba(0, 0, 0, 0.8); height:auto;
 }
