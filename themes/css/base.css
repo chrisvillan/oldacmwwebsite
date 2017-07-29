@@ -34,7 +34,7 @@ a, a:link, a:active, a:hover, img{outline:none;}
 /*#headerSection{ background:url(../images/headerbg.png) repeat-x 0 0 ;}*/
 /*#headerSection{ background: linear-gradient(to bottom, #67cbf0 0%, #dbebfb 100%);}*/
 /*#headerSection{ background:  linear-gradient(225deg, #06719e 0%, #abd3ee 30%, #dbebfb 100%);}*/
-#headerSection{ background:  linear-gradient(225deg, #06719e 0%, #abd3ee 30%, #dbebfb 100%);}
+#headerSection{ background:  linear-gradient(225deg, #06719e 0%, #abd3ee 30%, white 100%);}
 #headerSection .navbar { padding-top:20px; margin-bottom: 0;}
 #headerSection .navbar .brand {padding: 5px 20px 5px; color: #000;text-shadow: 0 0px 0 white;font-weight: bold; line-height: 1.3em;}
 #mapSection, #carouselSection{border-top:4px solid #1e294a; boraed4der-bottom: 4px solid #717171; background: #000; color:#fff}
